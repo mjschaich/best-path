@@ -1,4 +1,7 @@
 /**
+ * 
+ * NOT MY CODE-- supporting class for best-path that draws path on map 
+ * 
 The DrawingPanel class provides a simple interface for drawing persistent
 images using a Graphics object.  An internal BufferedImage object is used
 to keep track of what has been drawn.  A client of the class simply
